@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hws2/static/css/main.0f251b9f.css",
-    "main.js": "/hws2/static/js/main.c734e6a2.js",
-    "static/js/787.66cb4309.chunk.js": "/hws2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/hws2/index.html",
-    "main.0f251b9f.css.map": "/hws2/static/css/main.0f251b9f.css.map",
-    "main.c734e6a2.js.map": "/hws2/static/js/main.c734e6a2.js.map",
-    "787.66cb4309.chunk.js.map": "/hws2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/Ts-React-HW/static/css/main.0f251b9f.css",
+    "main.js": "/Ts-React-HW/static/js/main.7a4c231d.js",
+    "static/js/787.66cb4309.chunk.js": "/Ts-React-HW/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/Ts-React-HW/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Ts-React-HW/index.html",
+    "main.0f251b9f.css.map": "/Ts-React-HW/static/css/main.0f251b9f.css.map",
+    "main.7a4c231d.js.map": "/Ts-React-HW/static/js/main.7a4c231d.js.map",
+    "787.66cb4309.chunk.js.map": "/Ts-React-HW/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f251b9f.css",
-    "static/js/main.c734e6a2.js"
+    "static/js/main.7a4c231d.js"
   ]
 }
