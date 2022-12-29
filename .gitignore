@@ -12,7 +12,8 @@
 
 # production
 /build
-
+yarn.lock
+.gitignore
 # misc
 .DS_Store
 .env.local
