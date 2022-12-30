@@ -2,6 +2,8 @@
     --header_height: 60px;
     display: flex;
     justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .hw {
